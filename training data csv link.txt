@@ -1,0 +1,4 @@
+CSV too large.
+Open-source emissions data (from Sentinel-5P satellite observations) to predict carbon emissions
+have been put together using the link below:
+https://www.kaggle.com/competitions/playground-series-s3e20/data
